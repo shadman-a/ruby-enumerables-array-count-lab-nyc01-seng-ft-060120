@@ -1,8 +1,8 @@
 # Return the total number of strings in the provided array using the count enumerable
 def count_strings(array)
   count =
-  array.each do |num|
-  num = " "
+  array.each do |strings|
+  strings = " "
   end
   count
 end
